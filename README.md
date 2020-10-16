@@ -13,11 +13,6 @@
 
 - 👨🏽‍💻 Working on [Ministério da Infraestrutura](https://www.gov.br/infraestrutura/)
 - 🎓 Graduating in Information Systems
+- 🔧 I am always looking to learn new technologies;
+- 📫 How to reach me: jadilson12@gmail.com;
 - 🇧🇷 Live in Brazil
-
-❤ _Passionate about technology, innovation and the ability to make the world a better place with innovative solutions!_
-
-<hr>
-<div>
-  <img align="left" width="44%" alt="Jadilson github stats" src="https://github-readme-stats.vercel.app/api?username=jadilson12&show_icons=true&hide_border=true&theme=dracula" />
-</div>
