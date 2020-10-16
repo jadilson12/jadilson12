@@ -9,7 +9,7 @@
 
 **Talking about me:**
 
-- 👨🏽‍💻 Working on [Ministério da Infraestrutura](https://www.gov.br/infraestrutura/)
+- 💼 Working on [Ministério da Infraestrutura](https://www.gov.br/infraestrutura/)
 - 🎓 Graduating in Information Systems
 - 💬 Ask me about anything, I am happy to help;
 - 🔧 I am always looking to learn new technologies;
