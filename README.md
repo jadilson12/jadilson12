@@ -9,10 +9,13 @@
 
 **Talking about me:**
 
-<img width="51%" align="right" alt="Github" src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/dev.png" />
-
 - 👨🏽‍💻 Working on [Ministério da Infraestrutura](https://www.gov.br/infraestrutura/)
 - 🎓 Graduating in Information Systems
 - 🔧 I am always looking to learn new technologies;
 - 📫 How to reach me: jadilson12@gmail.com;
 - 🇧🇷 Live in Brazil
+
+<hr>
+<div>
+  <img align="left" width="44%" alt="Jadilson github stats" src="https://github-readme-stats.vercel.app/api?username=jadilson12&show_icons=true&hide_border=true&theme=dracula" />
+</div>
