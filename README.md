@@ -19,3 +19,23 @@
 <hr>
 
 
+<p>
+<a href="https://github.com/jadilson12">
+    <img width="50%" align="right" width="50%" alt="jadilson12 github stats" src="https://github-readme-stats.vercel.app/api?username=jadilson12&show_icons=true&hide_border=true" />
+  </a>
+
+**Languages and Tools:**
+  <!-- Your languages and tools. Be careful with the alignment. 
+  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
+  -->
+
+<img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
+<img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" />
+<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
+<img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" />
+<img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
+<img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
+<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
+
+
+</p>
