@@ -38,17 +38,14 @@
 ---
 
 **Languages and Tools:**
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
 
-<img width="10%" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg" />
-<img width="10%" src="https://www.vectorlogo.zone/logos/nestjs/nestjs-ar21.svg" />
-<img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" />
-<img width="10%" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg" />
-<img width="10%" src="https://www.vectorlogo.zone/logos/laravel/laravel-ar21.svg" />
-<img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-ar21.svg">
-<img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg">
-
-
-</p>
+<img height="25" src="https://img.shields.io/badge/javascript-ffff00.svg?&style=for-the-badge&logo=javascript&logoColor=000"></img>
+<img height="25" src="https://img.shields.io/badge/typescript-33adff.svg?&style=for-the-badge&logo=typescript&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/nodejs-00b300.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+<img height="25" src="https://img.shields.io/badge/nestjs-red.svg?&style=flat-square&logo=nestjs&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/angular-red.svg?&style=flat-square&logo=angular&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=flat-square&logo=react&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/php-4da6ff.svg?&style=flat-square&logo=php&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/laravel-red.svg?&style=flat-square&logo=laravel&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/material-33adff.svg?&style=flat-square&logo=material-ui&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/bootstrap-33adff.svg?&style=flat-square&logo=bootstrap&logoColor=white"> </img>
