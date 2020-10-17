@@ -1,11 +1,11 @@
 ## <img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="25"> Hi! I'm Jadilson Guedes, a 👨‍💻 Sofware Developer
 
-[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/jadilson12)
-[![Gitlab](http://img.shields.io/badge/-Gitlab-388e3c?style=flat&logo=Gitlab&logoColor=white)](https://gitlab.com/jadilson12)
-[![Bitbucket](http://img.shields.io/badge/-Bitbucket-006db3?style=flat&logo=bitbucket&logoColor=white)](https://bitbucket.org/jadilson12)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jadilson12/)
-[![XdaDevelopers](http://img.shields.io/badge/-Developers-f57c00?style=flat&logo=xda-developers&logoColor=212121)](https://forum.xda-developers.com/member.php?u=7134408)
-[![Gmail](http://img.shields.io/badge/-Gmail-8e24aa?style=flat&logo=Gmail&logoColor=white)](mailto:jadilson12@gmail.com)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/jadilson12)
+[![Gitlab](http://img.shields.io/badge/-Gitlab-388e3c?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/jadilson12)
+[![Bitbucket](http://img.shields.io/badge/-Bitbucket-006db3?style=flat-square&logo=bitbucket&logoColor=white)](https://bitbucket.org/jadilson12)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jadilson12/)
+[![XdaDevelopers](http://img.shields.io/badge/-Developers-f57c00?style=flat-square&logo=xda-developers&logoColor=212121)](https://forum.xda-developers.com/member.php?u=7134408)
+[![Gmail](http://img.shields.io/badge/-Gmail-8e24aa?style=flat-square&logo=Gmail&logoColor=white)](mailto:jadilson12@gmail.com)
 
 **Talking about me:**
 
@@ -16,13 +16,26 @@
 - 📫 How to reach me: jadilson12@gmail.com;
 - 🇧🇷 Live in Brazil
  
-<hr>
+<hr/>
 
-
-<p>
-<a href="https://github.com/jadilson12">
-    <img width="50%" align="right" width="50%" alt="jadilson12 github stats" src="https://github-readme-stats.vercel.app/api?username=jadilson12&show_icons=true&hide_border=true" />
+<p align="center">
+  <a href="https://github.com/jadilson12/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadilson12&layout=compact&hide_border"
+    />
   </a>
+  <a href="https://github.com/jadilson12/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=jadilson12&show_icons=true&hide_border=true&title_color=33ff&icon_color=ff3366"
+    />
+  </a>
+</p>
+
+
+---
 
 **Languages and Tools:**
   <!-- Your languages and tools. Be careful with the alignment. 
