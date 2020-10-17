@@ -15,25 +15,24 @@
 - 🔧 I am always looking to learn new technologies;
 - 📫 How to reach me: jadilson12@gmail.com;
 - 🇧🇷 Live in Brazil
- 
-<hr/>
+
+---
 
 <p align="center">
   <a href="https://github.com/jadilson12/github-readme-stats">
     <img
       align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadilson12&layout=compact&hide_border"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=jadilson12&layout=compact&theme=dracula"
     />
   </a>
   <a href="https://github.com/jadilson12/github-readme-stats">
     <img
       align="center"
       height="165"
-      src="https://github-readme-stats.vercel.app/api?username=jadilson12&show_icons=true&hide_border=true&title_color=33ff&icon_color=ff3366"
+      src="https://github-readme-stats.vercel.app/api?username=jadilson12&show_icons=true&theme=dracula"
     />
   </a>
 </p>
-
 
 ---
 
