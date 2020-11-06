@@ -44,6 +44,7 @@
 <img height="25" src="https://img.shields.io/badge/nestjs-red.svg?&style=flat-square&logo=nestjs&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/angular-red.svg?&style=flat-square&logo=angular&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/react-000033.svg?&style=flat-square&logo=react&logoColor=white"> </img>
+<img height="25" src="https://img.shields.io/badge/react_native-62DAFB.svg?&style=for-the-badge&logo=react&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/php-4da6ff.svg?&style=flat-square&logo=php&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/laravel-red.svg?&style=flat-square&logo=laravel&logoColor=white"> </img>
 <img height="25" src="https://img.shields.io/badge/material-33adff.svg?&style=flat-square&logo=material-ui&logoColor=white"> </img>
