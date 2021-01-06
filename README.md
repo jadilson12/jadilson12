@@ -9,8 +9,8 @@
 
 **Talking about me:**
 
-- 💼 Working on [Ministério da Infraestrutura](https://www.gov.br/infraestrutura/)
-- 🎓 Graduating in Information Systems
+- 💼 Working on [Cast Group](https://www.castgroup.com.br/)
+- 🎓 Information Systems
 - 💬 Ask me about anything, I am happy to help;
 - 🔧 I am always looking to learn new technologies;
 - 📫 How to reach me: jadilson12@gmail.com;
