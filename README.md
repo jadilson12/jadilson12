@@ -1,4 +1,4 @@
-## <img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="25"> Hi! I'm Jadilson Guedes, a 👨‍💻 Sofware Developer
+## <img src="https://raw.githubusercontent.com/jadilson12/jadilson12/master/assets/hi.gif" width="25"> Hi! I'm Jadilson Guedes
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/jadilson12)
 [![Gitlab](http://img.shields.io/badge/-Gitlab-388e3c?style=flat-square&logo=Gitlab&logoColor=white)](https://gitlab.com/jadilson12)
