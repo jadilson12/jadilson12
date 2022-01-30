@@ -9,7 +9,7 @@
 
 **Talking about me:**
 
-- 💼 Working on [Cast Group](https://www.castgroup.com.br/)
+- 💼 Working on [First Decision](https://www.firstdecision.com.br/)
 - 🎓 Information Systems
 - 💬 Ask me about anything, I am happy to help;
 - 🔧 I am always looking to learn new technologies;
